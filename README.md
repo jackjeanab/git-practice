@@ -4,3 +4,4 @@
 ## GitHub
 
 本專案使用 GitHub 保存遠端版本。
+這一行是在 GitHub 網站新增的。
